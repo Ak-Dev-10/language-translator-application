@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Open+Sans&display=swap'); 
+
+textarea {
+    width: 200px;
+    height: 70%;
+    display: block;
+    margin : 2rem;
+    padding : 1rem;
+}
